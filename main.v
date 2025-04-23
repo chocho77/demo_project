@@ -9,5 +9,10 @@ fn main() {
     println(name) 
     println(age)
     println(large_number)
+	mut age1 := 20
+    println(age1)
+    age1 = 21
+    println(age1)
+
 
 }
